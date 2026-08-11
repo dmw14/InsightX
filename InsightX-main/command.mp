@@ -1,0 +1,12 @@
+<!--
+(Generate a new Groq API key)
+
+ cd C:\Users\Saloni\Desktop\InsightX\IPD
+
+venv311\Scripts\activate
+
+pip install -r requirements.txt
+
+python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords'); nltk.download('wordnet'); nltk.download('omw-1.4'); nltk.download('punkt_tab')"
+
+streamlit run main.py -->

@@ -1,0 +1,8 @@
+streamlit
+arxiv
+pandas
+scikit-learn
+matplotlib
+nltk
+google-generativeai
+python-dotenv
